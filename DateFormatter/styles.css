@@ -84,6 +84,7 @@ select {
 }
 
 #current-date {
+  padding-top: 80px;
   font-size: 2rem;
   text-align: center;
 }
